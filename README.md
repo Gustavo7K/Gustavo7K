@@ -2,7 +2,7 @@
 
 #### Aqui esta algumas informações sobre mim:
 
-#####Link do meu Linkedin: https://www.linkedin.com/in/gustavo-henrique-07b26220a/
+Link do meu Linkedin: https://www.linkedin.com/in/gustavo-henrique-07b26220a/
 <!--
 **Gustavo7K/Gustavo7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
