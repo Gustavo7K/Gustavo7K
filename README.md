@@ -1,5 +1,6 @@
 ### Olá 👋 Me chamo Gustavo Henrique, sou estudante e programador no primeiro ano de jornada.🔭
 
+
 #### Aqui esta algumas informações sobre mim:
 
 Link do meu Linkedin: https://www.linkedin.com/in/gustavo-henrique-07b26220a/
