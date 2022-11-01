@@ -1,4 +1,4 @@
-### Olá 👋 Me chamo Gustavo Henrique, sou estudante e programador no primeiro ano de jornada.🔭
+### Olá 👋 Me chamo Gustavo, sou estudante e programador no primeiro ano de jornada.🔭
 
 
 #### Aqui estão algumas informações sobre mim:
