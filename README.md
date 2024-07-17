@@ -1,4 +1,5 @@
 ### Olá 👋 Me chamo Gustavo, sou estudante e programador no primeiro ano de jornada.🔭
+### Atualmente estou focado em aprender mais sobre o back end e dados, estudando visulizações de dados, linguagens e machine learning.
 
 
 #### Aqui estão algumas informações sobre mim:
