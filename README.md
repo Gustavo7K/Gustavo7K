@@ -1,4 +1,4 @@
-### Olá 👋 Me chamo Gustavo, sou estudante e programador brasileiro no segundo ano de jornada.🔭
+#### Olá 👋 Me chamo Gustavo, sou estudante e programador brasileiro no segundo ano de jornada.🔭
 #### Convido você a ver os meus repositorios aqui no Github, onde eu desenvolvo aplicações, faço exercicios e aprendo mais na minha jornada como programador 🗺
 
 ## Atualmente estou aprendendo:
@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/gustavo-henrique07b26220a/" target="_blank"><img loading="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+#### Estatisticas:
 <div>
 <a href="https://github.com/Gustavo7K">
 <img loading="mostUsedLanguages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo7K&layout=compact&langs_count=7&theme=dracula"/>
