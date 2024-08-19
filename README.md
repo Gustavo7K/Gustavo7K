@@ -3,8 +3,11 @@
 
 #### Aqui estão algumas informações sobre mim:
 
-Link do meu Linkedin: https://www.linkedin.com/in/gustavo-henrique07b26220a/
-<!--
+Linkedin: https://www.linkedin.com/in/gustavo-henrique07b26220a/
+
+## Estou aprendendo:
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 **Gustavo7K/Gustavo7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
