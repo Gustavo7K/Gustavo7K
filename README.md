@@ -1,17 +1,11 @@
-<style>
-  .learning{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
-
 ## Olá 👋 Me chamo Gustavo, sou estudante e programador brasileiro no segundo ano de jornada.🔭
 #### Convido você a ver os meus repositorios aqui no Github, onde eu desenvolvo aplicações, faço exercicios e aprendo mais na minha jornada como programador 🗺
 
 ## Atualmente estou aprendendo:
 
-<div class="learning"> <img loading="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/> <img loading="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </div>
+<div display: flex; 
+    justify-content: center;
+    align-items: center;> <img loading="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/> <img loading="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </div>
 
 
 ## Ferramentas e Tecnologias:
