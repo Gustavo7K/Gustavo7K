@@ -1,6 +1,8 @@
 <style>
-  .learning {
-    text-align: center;
+  .learning{
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 </style>
 
