@@ -1,4 +1,4 @@
-## Olá 👋 Me chamo Gustavo, sou estudante e programador brasileiro no terceiro ano de jornada.🔭
+## Olá 👋 Me chamo Gustavo, sou estudante e programador brasileiro.🔭
 #### Convido você a ver os meus repositorios aqui no Github, onde eu desenvolvo aplicações, faço exercicios e aprendo mais na minha jornada como programador 🗺
 
 ## Atualmente estou aprendendo:
